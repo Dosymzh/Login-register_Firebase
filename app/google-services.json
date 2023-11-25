@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415260316390",
+    "project_id": "fresh-delight-401112",
+    "storage_bucket": "fresh-delight-401112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415260316390:android:1c5f0ade62ff1fca19e127",
+        "android_client_info": {
+          "package_name": "kz.dosymzhan.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQ_Z3WvJvz0VjN0iVfHkWXaNbvCZuK3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
